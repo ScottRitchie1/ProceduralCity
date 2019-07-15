@@ -1,0 +1,2 @@
+C:\Users\ScottServerPC\Desktop\City Generator\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\ScottServerPC\Desktop\City Generator\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
